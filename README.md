@@ -11,3 +11,4 @@ Univeristy of California, Berkeley
 Coursework Completed:
 * Python Programming for Data Science
 * Statistics
+* Research Analysis and Design for Applications in Data Science
