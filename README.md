@@ -1,16 +1,13 @@
-John A. Smith
+Krishna Chaitanya Akkineni
 
 Data Science Portfolio
 
-john_smith@yahoo.com
+naga.akkineni@hotmail.com
 
-Masters in Data Science (in progress - expected Spring 2019)
+Masters in Data Science (in progress - expected Spring 2020)
 
 Univeristy of California, Berkeley
 
 Coursework Completed:
 * Python Programming for Data Science
 * Statistics
-* Experiment Design
-* Data Engineering
-* Machine Learning
